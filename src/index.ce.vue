@@ -1,8 +1,24 @@
 <template>
 	<div>
+
+
+<div @click="this.dec" style="border:solid;padding:10px">
+          minus
+
+
+         <div @click="this.dec" style="border:solid;padding:10px">
+          MINUS
+         </div>
+
+
+
+    </div>
+
+
 		<button @click="this.dec">
-          -
+          ---------------<br>
     </button>
+
 		<span>{{count}}</span>
 		<button @click="this.inc">
           +
