@@ -1,0 +1,10 @@
+{
+  "name": "@wcd/janosemoeden@gmail.com.cevue-kzzzi9ch",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve PM8jZ4GXMxl98HC41eD2 --open"
+  },
+  "dependencies": {
+    "vue": "next"
+  }
+}
